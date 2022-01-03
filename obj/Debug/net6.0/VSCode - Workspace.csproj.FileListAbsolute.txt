@@ -1,0 +1,5 @@
+C:\Users\rafae\OneDrive\Coisas\Documentos\VSCode - Workspace\obj\Debug\net6.0\VSCode - Workspace.csproj.AssemblyReference.cache
+C:\Users\rafae\OneDrive\Coisas\Documentos\VSCode - Workspace\obj\Debug\net6.0\VSCode - Workspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\OneDrive\Coisas\Documentos\VSCode - Workspace\obj\Debug\net6.0\VSCode - Workspace.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive\Coisas\Documentos\VSCode - Workspace\obj\Debug\net6.0\VSCode - Workspace.AssemblyInfo.cs
+C:\Users\rafae\OneDrive\Coisas\Documentos\VSCode - Workspace\obj\Debug\net6.0\VSCode - Workspace.csproj.CoreCompileInputs.cache
